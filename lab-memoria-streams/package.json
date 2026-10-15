@@ -1,0 +1,11 @@
+{
+  "name": "lab-memoria-streams",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backpressure, Transform streams y procesamiento de archivos grandes",
+  "scripts": {
+    "seed": "node src/seed.js",
+    "pipeline": "node src/pipeline.js",
+    "test": "node --test"
+  }
+}

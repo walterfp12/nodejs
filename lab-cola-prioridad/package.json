@@ -1,0 +1,11 @@
+{
+  "name": "lab-cola-prioridad",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cola de prioridad con despacho cooperativo usando setImmediate",
+  "scripts": {
+    "start": "node src/app.js",
+    "stress": "node src/app.js --stress",
+    "test": "node --test"
+  }
+}
